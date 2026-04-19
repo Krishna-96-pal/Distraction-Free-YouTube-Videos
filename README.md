@@ -1,1 +1,1 @@
-# Distraction-Free-YouTube-Videos
+A simple web-based project that provides a distraction-free YouTube viewing experience by removing unnecessary elements like comments, ads, recommendations, and sidebars — helping users stay focused on the video content.
