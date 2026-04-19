@@ -1,1 +1,1 @@
-A simple web-based project that provides a Distraction-Free YouTube viewing experience by removing unnecessary elements like comments, ads, recommendations, and sidebars — helping users stay focused on the video content.
+A simple web-based project that provides a Distraction-Free YouTube Videos viewing experience by removing unnecessary elements like comments, ads, recommendations, and sidebars — helping users stay focused on the video content.
